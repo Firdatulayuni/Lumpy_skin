@@ -1,0 +1,9 @@
+streamlit==1.28.2
+streamlit-folium==0.20.0
+tensorflow==2.18.0
+tensorflow-intel==2.18.0
+protobuf==3.20.3
+numpy==1.26.4
+opencv-python
+Pillow
+matplotlib
